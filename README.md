@@ -1,23 +1,22 @@
-# HUAWEICLOUD-OCR-Webapp
+# serverless-ocr-demo-on-Huawei-Cloud
 
 Real-Time OCR WebApp (React, NodeJS, Python) demo on HUAWEI CLOUD
 
-Source Code :
+## Source Code
 
 
 Serverless app using NodeJS, React and HUAWEI CLOUD (API Gateway, FunctionGraph, GaussDB, OBS), all the website will host in HUAWEI CLOUD OBS. 
 
-Architecture Desc:
+## Architecture Desc
 ![Alt text](https://github.com/hexlicn/HUAWEICLOUD-OCR-Webapp/blob/master/images/arch.png)
 
-How to demo:
+## How to demo
 
 Please navigate to : http://react-ap-webapp.obs-website.ap-southeast-2.myhuaweicloud.com/
 
 ![img](https://github.com/hexlicn/HUAWEICLOUD-OCR-Webapp/blob/master/images/react-app-ocr.gif)
 
 
-Author Info:
+## Author Info
 
 Any questions, please email to lihexin1@huawei.com
-# serverless-ocr-demo-on-Huawei-Cloud
