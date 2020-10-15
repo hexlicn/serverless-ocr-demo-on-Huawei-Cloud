@@ -19,5 +19,5 @@ Please navigate to : http://react-ap-webapp.obs-website.ap-southeast-2.myhuaweic
 
 ## Contact Author
 
-@WhatsAp: +27 682105187  
-@Email:   lihexin1@huawei.com
+@WhatsApp: +27 682105187  
+@Email:    lihexin1@huawei.com
