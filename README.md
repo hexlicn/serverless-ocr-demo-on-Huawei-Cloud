@@ -17,6 +17,7 @@ Please navigate to : http://react-ap-webapp.obs-website.ap-southeast-2.myhuaweic
 ![img](https://github.com/hexlicn/serverless-ocr-demo-on-Huawei-Cloud/blob/main/images/react-app-ocr.gif)
 
 
-## Author Info
+## Contact Author
 
-Any questions, please email to lihexin1@huawei.com
+@WhatsAp: +27 682105187  
+@Email:   lihexin1@huawei.com
