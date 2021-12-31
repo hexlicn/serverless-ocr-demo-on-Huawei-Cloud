@@ -12,7 +12,7 @@ Serverless app using NodeJS, React and HUAWEI CLOUD (API Gateway, FunctionGraph,
 
 ## How to demo
 
-Please navigate to : http://react-ap-webapp.obs-website.ap-southeast-2.myhuaweicloud.com/
+Please navigate to : https://www.hwcsa-domain.site/
 
 ![img](https://github.com/hexlicn/serverless-ocr-demo-on-Huawei-Cloud/blob/main/images/react-app-ocr.gif)
 
